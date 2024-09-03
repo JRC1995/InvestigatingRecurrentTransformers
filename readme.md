@@ -1,3 +1,5 @@
+Official Repository for "Investigating Recurrent Transformers with Dynamic Halt" - Jishnu Ray Chowdhury, Cornelia Caragea
+
 ### Credits:
 * ```models/modules/xpos_relative_position.py``` is adapted from https://github.com/microsoft/torchscale/tree/main
 * ```models/modules/bert_padding.py```  is taken from https://github.com/Dao-AILab/flash-attention
